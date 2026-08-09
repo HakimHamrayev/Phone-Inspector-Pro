@@ -1,0 +1,6 @@
+{
+  "name": "Phone Inspector Pro",
+  "description": "Complete Hardware & System Diagnostics for Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
